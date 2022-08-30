@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a software engineer, currently looking for new work.
-- 🌱 I’m currently learning ~~TypeScript and React Hooks.~~ C++, GTest + GMock
+I am a software engineer, currently working on embedded systems!
+- 🌱 I’m currently learning ~~TypeScript and React Hooks.~~ C++, GTest
 - 📍 Currently based in SoCal
 - 😄 Pronouns: He/Him/His
 -----
