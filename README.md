@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am a software engineer, currently looking for new work.
-- 🌱 I’m currently learning TypeScript and React Hooks.
-- 📍 Currently based in Dallas
+- 🌱 I’m currently learning ~~TypeScript and React Hooks.~~ C++, GTest + GMock
+- 📍 Currently based in SoCal
 - 😄 Pronouns: He/Him/His
 -----
 #### Current Langauges and Tools
