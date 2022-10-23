@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am a software engineer, currently working on embedded systems!
-- 🌱 I’m currently learning ~~TypeScript and React Hooks.~~ C++, GTest
+- 🌱 I’m currently learning ~~TypeScript and React Hooks.~~ Python, C++, GTest
 - 📍 Currently based in SoCal
 - 😄 Pronouns: He/Him/His
 -----
